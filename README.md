@@ -1,4 +1,4 @@
-# supermall
+# MoGuJie-Mall
 
 ## Project setup
 ```
